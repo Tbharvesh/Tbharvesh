@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tanisha Bharvesh</h1>
 <h3 align="center">An self-motivated and enthusiastic learner</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tbharvesh" alt="tbharvesh" /></a> </p>
 
 - 🔭 I’m currently working on **Cognitive Behavioral Thearpy(CBT) chatbot**
 
